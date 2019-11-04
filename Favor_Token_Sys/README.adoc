@@ -1,0 +1,3 @@
+# this is a test
+
+this document is suposed to appear the first in the directory
